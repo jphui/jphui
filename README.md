@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 <!--
 **jphui/jphui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
