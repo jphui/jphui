@@ -1,8 +1,8 @@
-### Hello there 👋
+### Hello there. 👋
 <details>
-<summary>How do I dropdown?</summary>
+<summary>...</summary>
 <br>
-This is how you dropdown.
+General Kenobi
 </details>
 
 <!--
